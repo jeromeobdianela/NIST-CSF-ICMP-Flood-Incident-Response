@@ -1,6 +1,6 @@
 # 🛡️ Responding to an ICMP Flood Incident with the NIST CSF
 
-*As a cybersecurity trainee, I applied the NIST Cybersecurity Framework to a denial of service incident.*
+*As a cybersecurity trainee, I applied the NIST Cybersecurity Framework to a Denial of Service (DoS) incident.*
 
 ---
 
